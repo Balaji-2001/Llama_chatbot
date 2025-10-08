@@ -37,7 +37,6 @@ curl -X POST "http://YOUR_NGROK_HOST/chat" \
 Replace YOUR_NGROK_HOST with the URL Colab outputs.
 
 ***
-"""
 
 ## Folder Structure
 
@@ -46,11 +45,10 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 │   └──  example_colab_output.png
 ├──  *Error_Screenshot/*
 │   └──  example_curl_error.jpg
-├──  *Ngrok_Auth_token
+├──  Ngrok_Auth_token
 ├──  Llama_chatbot.ipynb
 ├──  Llama_chatbot.py
 └──  README.md
-"""
 
 ***
 
