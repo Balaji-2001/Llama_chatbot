@@ -39,7 +39,7 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 ***
 
 ## Folder Structure
-
+'''
 Llama_chatbot/
 ├── Output_Screenshot/
 │   └── example_colab_output.png
@@ -49,7 +49,7 @@ Llama_chatbot/
 ├── Llama_chatbot.ipynb
 ├── Llama_chatbot.py
 ├── README.md 
-
+'''
 ***
 
 ## Screenshots
