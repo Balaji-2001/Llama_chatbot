@@ -43,14 +43,13 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 
 Llama_chatbot/
 ├── Output_Screenshot/
-│   └── colab_output1.png
+│   └── example_colab_output.png
 ├── Error_Screenshot/
-│   └── curl_error_example.jpg
-├── Ngrok_Auth_Token
+│   └── example_curl_error.jpg
+├── Ngrok_Auth_token
 ├── Llama_chatbot.ipynb
 ├── Llama_chatbot.py
-├── README.md
-
+├── README.md 
 
 ***
 
