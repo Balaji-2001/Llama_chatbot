@@ -52,6 +52,23 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 
 ***
 
+
+Llama_chatbot/
+|
++-- Output_Screenshot/
+|   +-- example_colab_output.png (Image of successful API URL output)
+|
++-- Error_Screenshot/
+|   +-- example_curl_error.jpg (Image of a common connection/setup error)
+|
++-- Ngrok_Auth_token/
+|   +-- README.md (Instructions on how to get and set the ngrok auth token)
+|
++-- Llama_chatbot.ipynb (Jupyter Notebook for primary execution and setup)
++-- Llama_chatbot.py (The core Python script containing the model logic)
++-- README.md (Markdown version of this documentation)
++-- README.txt (This file)
+
 ## Screenshots
 
 *API Output Example:*  
