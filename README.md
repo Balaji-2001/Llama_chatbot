@@ -37,7 +37,8 @@ curl -X POST "http://YOUR_NGROK_HOST/chat" \
 Replace YOUR_NGROK_HOST with the URL Colab outputs.
 
 ***
----
+"""
+
 ## Folder Structure
 
 *Llama_chatbot/*
@@ -49,7 +50,7 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 ├──  Llama_chatbot.ipynb
 ├──  Llama_chatbot.py
 └──  README.md
----
+"""
 
 ***
 
