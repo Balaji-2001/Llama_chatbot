@@ -40,10 +40,10 @@ Replace YOUR_NGROK_HOST with the URL Colab outputs.
 
 ## Folder Structure
 
-*Llama_chatbot/*
-├──  *Output_Screenshot/*
+Llama_chatbot/
+├──  *Output_Screenshot/
 │   └──  example_colab_output.png
-├──  *Error_Screenshot/*
+├──  *Error_Screenshot/
 │   └──  example_curl_error.jpg
 ├──  Ngrok_Auth_token
 ├──  Llama_chatbot.ipynb
